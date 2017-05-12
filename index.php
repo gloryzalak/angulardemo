@@ -7,6 +7,9 @@
 
 <body>
 
-<?php echo "I am zalak. I always be happy girl.";?>
+<?php echo "I am zalak. I always be happy girl.";
+
+echo "hii";
+?>
 </body>
 </html>
